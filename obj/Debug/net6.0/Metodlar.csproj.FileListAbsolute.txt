@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\bin\Debug\net6.0\Metodlar.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\bin\Debug\net6.0\Metodlar.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\bin\Debug\net6.0\Metodlar.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\bin\Debug\net6.0\Metodlar.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\bin\Debug\net6.0\Metodlar.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\refint\Metodlar.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\Metodlar.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar\obj\Debug\net6.0\ref\Metodlar.dll
